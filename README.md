@@ -26,7 +26,7 @@ Boomerang at the time was a recent source found and did not have many runlist. I
 I cannot provide the runlist data for any of these sources, thus the code cannot be run. 
 
 ### FOR VERITAS MEMBERS
- `runlist_investigated.csv` contains all the runlist data investigated for the different sources. Typically, I pick the most luminous runlist for each of the sources. Also, I produced a code to generate the background fit files; it is available on the VERITAS wiki.
+ `runlist_investigated.csv` contains all the runlist data investigated for the different sources. Typically, I pick the most luminous runlist for each of the sources. Also, I produced a code to generate the background fit files and it is available on the VERITAS wiki.
 
 
 
